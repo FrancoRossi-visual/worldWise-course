@@ -45,3 +45,7 @@
   font-size: 1.6rem;
   color: var(--color-brand--1);
 }
+
+.backButton {
+  width: 10rem;
+}
