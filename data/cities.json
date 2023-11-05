@@ -1,40 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Montferrer i Castellbo",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2023-11-04T19:09:53.909Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "42.35854391749705",
+        "lng": "1.4282226562500002"
       },
-      "id": 17806751
+      "id": 1
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Buenos Aires",
+      "country": "Argentina",
+      "emoji": "🇦🇷",
+      "date": "2023-11-04T19:49:19.543Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "-34.68291096793205",
+        "lng": "-58.44177246093751"
       },
-      "id": 98443197
+      "id": 2
+    },
+    {
+      "cityName": "Samper de Calanda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-04T20:39:48.010Z",
+      "notes": "",
+      "position": {
+        "lat": "41.178653972331674",
+        "lng": "-0.30761718750000006"
+      },
+      "id": 3
     }
   ]
 }
